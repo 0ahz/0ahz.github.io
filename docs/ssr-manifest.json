@@ -32,40 +32,37 @@
   "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vite-ssg/dist/index.mjs": [
     "/assets/vendor.3dd68992.js"
   ],
-  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/README.md": [
-    "/assets/README.60a18c70.js"
-  ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/[...all].59c14b7b.js"
+    "/assets/[...all].0566a80d.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/[...all].59c14b7b.js"
+    "/assets/[...all].0566a80d.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue": [
-    "/assets/[...all].59c14b7b.js"
+    "/assets/[...all].0566a80d.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/about.md": [
-    "/assets/about.02f2b159.js"
+    "/assets/about.4af76fcb.js"
   ],
   "@vite-icons/carbon/pedestrian": [
-    "/assets/[name].200e7087.js"
+    "/assets/[name].bde9c8cc.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/[name].200e7087.js"
+    "/assets/[name].bde9c8cc.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue": [
-    "/assets/[name].200e7087.js"
+    "/assets/[name].bde9c8cc.js"
   ],
   "@vite-icons/carbon/warning": [
-    "/assets/404.d40b782d.js"
+    "/assets/404.a16865c1.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.d40b782d.js"
+    "/assets/404.a16865c1.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue": [
-    "/assets/404.d40b782d.js"
+    "/assets/404.a16865c1.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/home.vue": [
-    "/assets/home.b06ac32e.js"
+    "/assets/home.ece47d39.js"
   ]
 }
