@@ -115,4 +115,8 @@ export default defineConfig({
       'vue-demi',
     ],
   },
+
+  build: {
+    outDir: 'docs',
+  },
 })
