@@ -1,0 +1,71 @@
+{
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/nprogress/nprogress.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vite-ssg/dist/chunk.46RN3I3Z.mjs": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/vendor.3dd68992.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/README.md": [
+    "/assets/README.60a18c70.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/[...all].59c14b7b.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
+    "/assets/[...all].59c14b7b.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue": [
+    "/assets/[...all].59c14b7b.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/about.md": [
+    "/assets/about.02f2b159.js"
+  ],
+  "@vite-icons/carbon/pedestrian": [
+    "/assets/[name].200e7087.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/[name].200e7087.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue": [
+    "/assets/[name].200e7087.js"
+  ],
+  "@vite-icons/carbon/warning": [
+    "/assets/404.d40b782d.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404.d40b782d.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue": [
+    "/assets/404.d40b782d.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/home.vue": [
+    "/assets/home.b06ac32e.js"
+  ]
+}
