@@ -23,6 +23,7 @@
     "@vue/compiler-sfc": "^3.0.5",
     "@vue/server-renderer": "^3.0.5",
     "cross-env": "^7.0.3",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.20.0",
     "markdown-it-prism": "^2.1.4",
     "pnpm": "^5.17.2",
@@ -42,6 +43,11 @@
     "rules": {
       "no-unused-vars": "off",
       "@typescript-eslint/no-unused-vars": "off"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
