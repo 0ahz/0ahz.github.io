@@ -1,11 +1,8 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
-const colors = require('windicss/colors')
+import colors from 'windicss/colors'
 
 module.exports = {
   darkMode: 'class',
-  plugins: [
-    require('windicss/plugin/typography'),
-  ],
+  plugins: [require('windicss/plugin/typography')],
   theme: {
     extend: {
       typography: {

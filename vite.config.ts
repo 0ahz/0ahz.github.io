@@ -46,14 +46,14 @@ export default defineConfig({
       extensions: ['vue', 'md'],
 
       // allow auto import and register components used in markdown
-      customLoaderMatcher: id => id.endsWith('.md'),
+      customLoaderMatcher: (id: string) => id.endsWith('.md'),
 
       // auto import icons
       customComponentResolvers: [
         // https://github.com/antfu/vite-plugin-icons
         ViteIconsResolver({
-          componentPrefix: '',
-          // enabledCollections: ['carbon']
+          componentPrefix: 'icon',
+          enabledCollections: ['carbon'],
         }),
       ],
     }),
@@ -106,14 +106,8 @@ export default defineConfig({
   },
 
   optimizeDeps: {
-    include: [
-      'vue',
-      'vue-router',
-      '@vueuse/core',
-    ],
-    exclude: [
-      'vue-demi',
-    ],
+    include: ['vue', 'vue-router', '@vueuse/core'],
+    exclude: ['vue-demi'],
   },
 
   build: {
