@@ -1,0 +1,1 @@
+import{r as l,o,a as r,b as t,h as s,q as e}from"./vendor.c148353b.js";const n={},u=t("h2",null,"Posts",-1),a=e(" Hello World ");n.render=function(e,n){const d=l("router-link");return o(),r("div",null,[u,t("ul",null,[t("li",null,[t(d,{to:"/posts/hello-world",title:"Hello World"},{default:s((()=>[a])),_:1})])])])};export default n;
