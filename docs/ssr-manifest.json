@@ -32,37 +32,46 @@
   "/Users/mark1/Projects/github-proj/0ahz.github.io/node_modules/vite-ssg/dist/index.mjs": [
     "/assets/vendor.3dd68992.js"
   ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404.8d2668df.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/404.vue?vue&type=route&index=0&lang.yaml": [
+    "/assets/404.8d2668df.js"
+  ],
+  "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/404.vue": [
+    "/assets/404.8d2668df.js"
+  ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/[...all].0566a80d.js"
+    "/assets/[...all].896fd957.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/[...all].0566a80d.js"
+    "/assets/[...all].896fd957.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/[...all].vue": [
-    "/assets/[...all].0566a80d.js"
+    "/assets/[...all].896fd957.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/about.md": [
-    "/assets/about.4af76fcb.js"
+    "/assets/about.72839af1.js"
   ],
   "@vite-icons/carbon/pedestrian": [
-    "/assets/[name].bde9c8cc.js"
+    "/assets/[name].6316d5fe.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/[name].bde9c8cc.js"
+    "/assets/[name].6316d5fe.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/pages/hi/[name].vue": [
-    "/assets/[name].bde9c8cc.js"
+    "/assets/[name].6316d5fe.js"
   ],
   "@vite-icons/carbon/warning": [
-    "/assets/404.a16865c1.js"
+    "/assets/404.fbf7079c.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.a16865c1.js"
+    "/assets/404.fbf7079c.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/404.vue": [
-    "/assets/404.a16865c1.js"
+    "/assets/404.fbf7079c.js"
   ],
   "/Users/mark1/Projects/github-proj/0ahz.github.io/src/layouts/home.vue": [
-    "/assets/home.ece47d39.js"
+    "/assets/home.4949f1f0.js"
   ]
 }
