@@ -1,5 +1,5 @@
 {
   "globalComponents": [
-    "**/src/components/*"
+    "./**/src/components/*"
   ]
 }
