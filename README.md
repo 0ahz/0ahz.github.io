@@ -1,3 +1,1 @@
-# 3-206
-
-static page
+# static page
