@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/0ahz/3-206#readme",
   "devDependencies": {
-    "serve": "^11.3.2"
+    "serve": "^14.2.0"
   }
 }
