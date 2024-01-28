@@ -1,1 +1,36 @@
-<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><link rel=icon href=/favicon.svg type=image/svg+xml><meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no,viewport-fit=cover"><title>Hi~</title><style>.hide-block{opacity:0;visibility:hidden}</style><script type=module crossorigin src=/assets/index.2227c12c.js></script><link rel=modulepreload href=/assets/vendor.4360be2b.js><link rel=stylesheet href=/assets/index.2c4b8bc2.css></head><body><script async src="https://www.googletagmanager.com/gtag/js?id=G-Z4F19PBJT6"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-Z4F19PBJT6")</script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover"
+    />
+    <link href="/dist/style.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <script>
+      (function () {
+        function toggleDarkMode(isDark) {
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        }
+        const darkModePreference = window.matchMedia(
+          '(prefers-color-scheme: dark)',
+        );
+        toggleDarkMode(darkModePreference.matches);
+        darkModePreference.addEventListener('change', e => {
+          toggleDarkMode(e.matches);
+        });
+      })();
+    </script>
+    <title>Hi There ~</title>
+  </head>
+  <body
+    class="pb-[env(safe-area-inset-bottom)] pt-[env(safe-area-inset-top)]"
+  ></body>
+</html>

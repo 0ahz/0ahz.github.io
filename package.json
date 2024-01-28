@@ -2,22 +2,30 @@
   "name": "3-206",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "dev": "serve -l 5566 ."
+    "tailwindcss": "tailwindcss -i ./src/style.css -o ./dist/style.css --minify --watch",
+    "serve": "serve .",
+    "dev": "concurrently \"npm:tailwindcss\" \"npm:serve\"",
+    "format": "prettier index.html src/style.css --write"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0ahz/3-206.git"
+    "url": "git+https://github.com/0ahz/0ahz.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/0ahz/3-206/issues"
+    "url": "https://github.com/0ahz/0ahz.github.io/issues"
   },
-  "homepage": "https://github.com/0ahz/3-206#readme",
+  "homepage": "https://github.com/0ahz/0ahz.github.io#readme",
   "devDependencies": {
-    "serve": "^11.3.2"
+    "@0ahz/prettier-config": "^0.0.4",
+    "concurrently": "^8.2.2",
+    "prettier": "^3.2.4",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "serve": "^14.2.1",
+    "tailwindcss": "^3.4.1"
   }
 }
